@@ -1,0 +1,186 @@
+/* BLOGBAND ADMIN CSS */
+.blogband-adm {
+
+}
+
+.blogband-adm .theme-upgrade{
+	background: #fff;
+    border: 1px solid #ababab;
+}
+
+.blogband-adm .theme-upgrade table{
+
+}
+
+.blogband-adm .theme-upgrade table .theme-table-head{
+
+}
+
+.blogband-adm .theme-upgrade table .theme-table-head tr {
+
+}
+
+.blogband-adm .theme-upgrade table .theme-table-head tr th {
+
+}
+
+.blogband-adm .theme-upgrade table .theme-table-head tr th:nth-child(1) {
+	background: #353535;
+}
+
+.blogband-adm .theme-upgrade table .theme-table-head tr th:nth-child(2) {
+	background: #000;
+	text-align: center;
+}
+
+.blogband-adm .theme-upgrade table .theme-table-head tr th:nth-child(3) {
+	background: blue;
+	text-align: center;
+}
+
+.blogband-adm .theme-upgrade table .theme-table-head tr th h3{
+	font-size: 19px;
+    color: #fff;
+    margin: 10px 20px;
+    /*text-align: left;*/
+}
+
+.blogband-adm .theme-upgrade table tbody{
+
+}
+
+.blogband-adm .theme-upgrade table tbody tr {
+
+}
+
+.blogband-adm .theme-upgrade table tbody tr td{
+
+}
+
+.blogband-adm .theme-upgrade table tbody tr td .number-index-styles{
+	font-weight: 800;
+    font-size: 21px;
+}
+
+.blogband-adm .theme-upgrade table tbody tr td:nth-child(2){
+	text-align: center;
+}
+
+.blogband-adm .theme-upgrade table tbody tr td:nth-child(3){
+	text-align: center;
+}
+
+.blogband-adm .theme-upgrade table tbody tr td .dashicons-no {
+	color: #e32828;
+	font-size: 28px;
+}
+
+
+.blogband-adm .theme-upgrade table tbody tr td .dashicons-yes {
+	color: #10d710;
+	font-size: 28px;
+}
+
+.blogband-adm .theme-upgrade table tbody tr .feature-items-title {
+	font-weight: 600;
+	font-size: 17px;
+	line-height: 1.3;
+	font-size: 14px;
+    padding-left: 25px;
+    box-sizing: border-box;
+}
+
+.blogband-adm .theme-upgrade table tbody tr .go-pro .link {
+	display: inline-block;
+    background: #10d710;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 40px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 800;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+
+.blogband-adm .theme-upgrade table tbody tr td h3{
+
+}
+
+.blogband-adm .theme-upgrade table tbody tr td a{
+
+}
+
+.blogband-adm .theme-upgrade table tbody tr td span{
+
+}
+
+.blogband-adm .header-welcome{
+	font-size: 42px;
+	font-weight: 500;
+	line-height: 45px;
+	color: #353535;
+	margin-bottom: 20px;
+}
+
+.blogband-adm h4{
+	font-size: 19px;
+}
+
+.blogband-adm .theme-opt {}
+
+.blogband-adm .theme-para {
+	background: #fff;
+    border: 1px solid #ababab;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.blogband-adm .theme-para p{
+	font-size: 15px;
+	line-height: 1.5;
+    color: #353535;
+}
+
+
+.blogband-adm .theme-para p a{}
+
+.blogband-adm-dsply-fl {
+	display: flex;
+}
+
+.blogband-adm-jc-sp-btw {
+	justify-content: space-between;
+}
+
+.blogband-adm-fl-wrap {
+	flex-wrap: wrap;
+}
+
+.blogband-adm-wid-100 {
+	width: 100%;
+}
+
+.blogband-adm-wid-99 {
+	width: 99%;
+}
+
+.blogband-adm-wid-49 {
+	width: 49%;
+}
+
+.blogband-adm-wid-33 {
+	width: 33%;
+}
+
+@media only screen and (max-width: 420px) { 
+
+
+	.blogband-adm-mobwid-100 {
+		width: 100%;
+	}
+
+
+
+}

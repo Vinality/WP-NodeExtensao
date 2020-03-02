@@ -1,0 +1,31 @@
+body { background-color: #292929; color: #e6e6e6; }
+
+.site-header { background-color: #292929; }
+
+.site-content .container { background-color: #292929; }
+
+.main-navigation li a { color: #d6d6d6; }
+
+.main-navigation ul ul { background: #393939; }
+
+.post .entry-title a, .page .entry-title a { color: #fff; }
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { color: #fff; }
+
+.comments-area { background: #393939; }
+
+.comments-area .comment-form p label { color: #fff; }
+
+.navigation.pagination .page-numbers.current { background: #393939; }
+
+.site-footer { background: #393939; }
+
+.slicknav_menu { background: #292929; }
+
+.slicknav_btn { background: #393939; }
+
+.slicknav_menu .slicknav_icon-bar { background-color: #fff; }
+
+.slicknav_nav { background: #393939; }
+
+.slicknav_nav a { color: #e6e6e6; }

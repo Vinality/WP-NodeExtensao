@@ -1,0 +1,36 @@
+#sub-accordion-section-blog_guten_theme_general_settings .customize-control-checkbox label {
+    font-weight: bold;
+}
+#sub-accordion-section-blog_guten_theme_general_settings .customize-control-description {
+    opacity: 0.8;
+}
+#sub-accordion-section-blog_guten_theme_general_settings .customize-control-description ul {
+  list-style-type: disc;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+#_customize-description-blog_guten_upgrade_msg, #_customize-description-blog_guten_view_docs_button {
+    opacity: 1 !important;
+}
+.bd-ml-5 {
+    margin-left: 5px !important;
+}
+#customize-control-blog_guten_upgrade_msg {
+    margin-top: 15px;
+}
+#customize-control-blog_guten_upgrade_msg {
+    background: #fff;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+}
+#customize-control-blog_guten_not_on_home_msg {
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    margin-bottom: 15px;
+    background: #fef7f1;
+}
+#customize-control-blog_guten_not_on_home_msg span.description {
+    font-style: normal;
+}

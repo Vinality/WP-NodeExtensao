@@ -1,0 +1,61 @@
+body { font-family: 'Playfair Display', serif; font-size: 16px; line-height: 30px; }
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Playfair Display', serif; font-weight: 700; }
+
+.site-branding { font-size: 14px; }
+
+.cover-section-wrap .cover-desc { font-size: 18px; }
+
+a { color: #90525B; }
+
+a:hover, a:focus, a:active { color: #DB9B51; }
+
+.main-navigation li a:hover { color: #90525B; }
+
+.main-navigation .current_page_item > a { color: #90525B; }
+
+.post .entry-title a:hover, .page .entry-title a:hover { color: #90525B; }
+
+.bg-show-error { color: #90525B; }
+
+.post .entry-content blockquote { border-left: 4px solid #90525B; }
+
+.post .entry-content .wp-block-pullquote { border-top: 3px solid #90525B; border-bottom: 3px solid #90525B; }
+
+.post .entry-content .wp-block-pullquote.is-style-solid-color.has-light-purple-background-color { background-color: #90525B; }
+
+.post .entry-content .wp-block-pullquote.is-style-solid-color.has-light-pink-background-color { background-color: #DB9B51; }
+
+button, input[type="button"], input[type="reset"], input[type="submit"] { border-color: #90525B; background-color: #90525B; }
+
+button:hover, button:active, button:focus, input[type="button"]:hover, input[type="button"]:active, input[type="button"]:focus, input[type="reset"]:hover, input[type="reset"]:active, input[type="reset"]:focus, input[type="submit"]:hover, input[type="submit"]:active, input[type="submit"]:focus { background-color: #DB9B51; border-color: #DB9B51; }
+
+.btn-primary { border-color: #90525B; background-color: #90525B; }
+
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus { background-color: #DB9B51; border-color: #DB9B51; }
+
+.has-light-purple-color { color: #90525B; }
+
+.has-light-purple-color cite { color: #90525B; }
+
+.has-light-pink-color { color: #DB9B51; }
+
+.has-light-pink-color cite { color: #DB9B51; }
+
+.has-light-purple-background-color { background-color: #90525B; }
+
+.has-light-pink-background-color { background-color: #DB9B51; }
+
+.wp-block-button.is-style-outline .has-light-purple-color { color: #90525B; border-color: #90525B; }
+
+.wp-block-button.is-style-outline .has-light-pink-color { color: #DB9B51; border-color: #DB9B51; }
+
+.wp-block-button.is-style-outline .has-light-purple-background-color { background-color: #90525B; }
+
+.wp-block-button.is-style-outline .has-light-pink-background-color { background-color: #DB9B51; }
+
+input[type="submit"] { border-color: #90525B; background-color: #90525B; }
+
+input[type="submit"]:hover, input[type="submit"]:active, input[type="submit"]:focus { color: #90525B; border-color: #90525B; }
+
+.site-footer .goto-top { background: #90525B; }

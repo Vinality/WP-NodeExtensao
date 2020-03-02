@@ -1,0 +1,665 @@
+# Copyright (C) 2020 TwoPoints
+# This file is distributed under the GNU General Public License v2.0 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Guten 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blog-guten\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-01-23T10:44:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.3.0\n"
+"X-Domain: blog-guten\n"
+
+#. Theme Name of the theme
+msgid "Blog Guten"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://wp-points.com/themes/blog-guten/"
+msgstr ""
+
+#. Description of the theme
+msgid "'Blog Guten' is a minimal WordPress blog theme developed to work seamlessly with Gutenberg Block Editor. It is simple, minimal & easy-to-use. This theme is designed and developed primarily to create professional blogging websites. With this theme, you can use Gutenberg block editor's wide-align & full-width block alignments. It is fully responsive and works flawlessly on all type of devices like mobiles, tablets, laptops, and computers. 'Blog Guten' is search engine friendly. It integrates perfectly with popular SEO plugins like Yoast SEO to create an SEO ready blog. This theme is fast, secure & lightweight."
+msgstr ""
+
+#. Author of the theme
+msgid "TwoPoints"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wp-points.com"
+msgstr ""
+
+#: 404.php:18
+msgid "404"
+msgstr ""
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try going back to homepage or a search?"
+msgstr ""
+
+#: 404.php:28
+msgid "Go Back to Homepage"
+msgstr ""
+
+#: archive.php:45
+#: index.php:69
+#: search.php:47
+msgid "Back"
+msgstr ""
+
+#: archive.php:46
+#: index.php:70
+#: search.php:48
+msgid "Next"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:28
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:17
+msgid "WordPress Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:22
+msgid "Primary"
+msgstr ""
+
+#: functions.php:66
+msgid "Light Purple"
+msgstr ""
+
+#: functions.php:71
+msgid "Light Pink"
+msgstr ""
+
+#: functions.php:76
+#: functions.php:100
+#: functions.php:125
+msgid "Light Black"
+msgstr ""
+
+#: functions.php:81
+#: functions.php:105
+#: functions.php:130
+msgid "White"
+msgstr ""
+
+#: functions.php:90
+#: functions.php:115
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:95
+#: functions.php:120
+msgid "Secondary Color"
+msgstr ""
+
+#: functions.php:158
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:160
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/about/about-theme.php:5
+msgid "About Theme"
+msgstr ""
+
+#: inc/about/about-theme.php:23
+#: inc/about/about-theme.php:120
+#: inc/about/about-theme.php:156
+#: inc/about/about-theme.php:203
+msgid "Welcome to 'Blog Guten'"
+msgstr ""
+
+#: inc/about/about-theme.php:27
+#: inc/about/about-theme.php:124
+#: inc/about/about-theme.php:160
+#: inc/about/about-theme.php:207
+msgid "A minimal WordPress blog theme, developed to work seamlessly with Gutenberg Block Editor. It is simple, easy-to-use & powerful."
+msgstr ""
+
+#: inc/about/about-theme.php:30
+#: inc/about/about-theme.php:127
+#: inc/about/about-theme.php:163
+#: inc/about/about-theme.php:210
+msgid "Secondary menu"
+msgstr ""
+
+#: inc/about/about-theme.php:31
+#: inc/about/about-theme.php:128
+#: inc/about/about-theme.php:164
+#: inc/about/about-theme.php:211
+msgid "Getting Started"
+msgstr ""
+
+#: inc/about/about-theme.php:32
+#: inc/about/about-theme.php:129
+#: inc/about/about-theme.php:165
+#: inc/about/about-theme.php:212
+msgid "Video Tutorials"
+msgstr ""
+
+#: inc/about/about-theme.php:33
+#: inc/about/about-theme.php:130
+#: inc/about/about-theme.php:166
+#: inc/about/about-theme.php:213
+msgid "Support"
+msgstr ""
+
+#: inc/about/about-theme.php:34
+#: inc/about/about-theme.php:131
+#: inc/about/about-theme.php:167
+#: inc/about/about-theme.php:214
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/about/about-theme.php:40
+msgid "Introduction"
+msgstr ""
+
+#: inc/about/about-theme.php:41
+msgid "It is fully responsive and works flawlessly on all types of devices like mobiles, tablets, laptops, and computers. 'Blog Guten' is search engine friendly. It integrates perfectly with popular SEO plugins like Yoast SEO to create an SEO ready blog. This theme is fast, secure & lightweight."
+msgstr ""
+
+#: inc/about/about-theme.php:47
+msgid "Looks great on any device"
+msgstr ""
+
+#: inc/about/about-theme.php:48
+msgid "This is a fully responsive blog theme. It is designed & developed on Twitter Bootstrap 4, the world’s best framework for responsive websites."
+msgstr ""
+
+#: inc/about/about-theme.php:50
+msgid "Learn More"
+msgstr ""
+
+#: inc/about/about-theme.php:54
+msgid "Fast & Lightweight"
+msgstr ""
+
+#: inc/about/about-theme.php:55
+msgid "This theme is designed and developed for speed. It is exceptionally lightweight. Your website will load quickly."
+msgstr ""
+
+#: inc/about/about-theme.php:58
+msgid "Extremely easy-to-use"
+msgstr ""
+
+#: inc/about/about-theme.php:59
+msgid "You don’t need any coding knowledge to use or customize it. We have kept customization options minimal to make it simple."
+msgstr ""
+
+#: inc/about/about-theme.php:66
+msgid "Next Steps"
+msgstr ""
+
+#: inc/about/about-theme.php:68
+#: inc/about/about-theme.php:71
+msgid "View live demo"
+msgstr ""
+
+#: inc/about/about-theme.php:69
+msgid "Check the live demo to see how this theme looks when setup is done."
+msgstr ""
+
+#: inc/about/about-theme.php:75
+msgid "Learn how to customize"
+msgstr ""
+
+#: inc/about/about-theme.php:76
+msgid "It is extremely easy to set up the theme. You can learn it from this link."
+msgstr ""
+
+#: inc/about/about-theme.php:78
+msgid "How to setup theme?"
+msgstr ""
+
+#: inc/about/about-theme.php:82
+msgid "Customize theme"
+msgstr ""
+
+#: inc/about/about-theme.php:83
+msgid "Start customizing theme settings with a live preview."
+msgstr ""
+
+#: inc/about/about-theme.php:85
+msgid "Customize theme options"
+msgstr ""
+
+#: inc/about/about-theme.php:93
+msgid "Do you like our work?"
+msgstr ""
+
+#: inc/about/about-theme.php:95
+msgid "Rate us"
+msgstr ""
+
+#: inc/about/about-theme.php:96
+msgid "If you like our work, please rate us 5 stars on WordPress.org."
+msgstr ""
+
+#: inc/about/about-theme.php:98
+msgid "Rate us 5 Stars"
+msgstr ""
+
+#: inc/about/about-theme.php:102
+msgid "Let us know your suggestions"
+msgstr ""
+
+#: inc/about/about-theme.php:103
+msgid "Contact us if you have some feedback/suggestions for the theme."
+msgstr ""
+
+#: inc/about/about-theme.php:105
+#: inc/about/about-theme.php:184
+#: inc/customizer/theme-options.php:162
+#: index.php:23
+#: index.php:24
+msgid "Contact Us"
+msgstr ""
+
+#: inc/about/about-theme.php:109
+msgid "Upgrade to the Pro version"
+msgstr ""
+
+#: inc/about/about-theme.php:110
+msgid "You get some additional features with the premium version of the theme."
+msgstr ""
+
+#: inc/about/about-theme.php:112
+msgid "More about Pro version"
+msgstr ""
+
+#: inc/about/about-theme.php:137
+msgid "How to edit the cover section on blog homepage"
+msgstr ""
+
+#: inc/about/about-theme.php:138
+msgid "You can edit the cover section displayed on blog home page with a live preview. Click on the following button to watch the video."
+msgstr ""
+
+#: inc/about/about-theme.php:140
+#: inc/about/about-theme.php:148
+msgid "Watch video"
+msgstr ""
+
+#: inc/about/about-theme.php:145
+msgid "Learn about theme's customization options"
+msgstr ""
+
+#: inc/about/about-theme.php:146
+msgid "We have kept theme options very minimal to keep it easy-to-use and to avoid any confusion."
+msgstr ""
+
+#: inc/about/about-theme.php:173
+msgid "WordPress Forum"
+msgstr ""
+
+#: inc/about/about-theme.php:174
+msgid "You can post your question on the public forum of WordPress.org. We are always available to help you."
+msgstr ""
+
+#: inc/about/about-theme.php:176
+msgid "Go-to Support Forum"
+msgstr ""
+
+#: inc/about/about-theme.php:181
+msgid "Drop an Email"
+msgstr ""
+
+#: inc/about/about-theme.php:182
+msgid "You can reach out to use on email by submitting your question/feedback using the contact form of our website."
+msgstr ""
+
+#: inc/about/about-theme.php:191
+#: inc/about/about-theme.php:245
+msgid "Quicker Professional Support"
+msgstr ""
+
+#: inc/about/about-theme.php:191
+msgid "(Pro Only)"
+msgstr ""
+
+#: inc/about/about-theme.php:192
+msgid "By upgrading your theme to premium version, you will get a quicker professional support from our expert WordPress developers. You get many additional features with the premium version of the theme. "
+msgstr ""
+
+#: inc/about/about-theme.php:194
+msgid "Submit Ticket"
+msgstr ""
+
+#: inc/about/about-theme.php:220
+msgid "Import Demo Content Easily"
+msgstr ""
+
+#: inc/about/about-theme.php:221
+msgid "With the premium version of the theme, you can import the demo content easily in few clicks. Demo content will help you create amazing posts and pages."
+msgstr ""
+
+#: inc/about/about-theme.php:225
+msgid "Add Featured Posts on Blog Homepage"
+msgstr ""
+
+#: inc/about/about-theme.php:226
+msgid "Adding featured posts will increase the engagement on your blog. This will make your blog look more professional. You can take users to some important posts/pages of your website."
+msgstr ""
+
+#: inc/about/about-theme.php:230
+msgid "Advanced Customization"
+msgstr ""
+
+#: inc/about/about-theme.php:231
+msgid "You get some more options to customize your website's look. In the premium version, we have made it more easy to customize the look of your website."
+msgstr ""
+
+#: inc/about/about-theme.php:235
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/about/about-theme.php:236
+msgid "You can add widgets to the footer of the website very easily with the premium theme. You can add any widget to the footer. This will help you in increasing user engagement on your website."
+msgstr ""
+
+#: inc/about/about-theme.php:240
+msgid "Remove Footer Credit Link"
+msgstr ""
+
+#: inc/about/about-theme.php:241
+msgid "With the premium version of the theme, you get an option to edit/remove the footer credit link easily & quickly."
+msgstr ""
+
+#: inc/about/about-theme.php:246
+msgid "With the premium version of the theme, you get professional WordPress support more quickly."
+msgstr ""
+
+#: inc/about/about-theme.php:250
+msgid "More Color Schemes & Typography Options"
+msgstr ""
+
+#: inc/about/about-theme.php:251
+msgid "With the premium version of the theme, you get more options to choose style for your website. You get more color options as well as more typography options."
+msgstr ""
+
+#: inc/about/about-theme.php:256
+msgid "Upgrade to Pro Now"
+msgstr ""
+
+#: inc/customizer/theme-options.php:5
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:15
+msgid "Enter logo height (in px)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:28
+msgid "Select Style"
+msgstr ""
+
+#: inc/customizer/theme-options.php:33
+msgid "Style 1 (Default)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:34
+msgid "Style 2"
+msgstr ""
+
+#: inc/customizer/theme-options.php:35
+msgid "Style 3"
+msgstr ""
+
+#: inc/customizer/theme-options.php:45
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer/theme-options.php:50
+msgid "Hide Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options.php:51
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/theme-options.php:52
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/theme-options.php:62
+msgid "Display full posts on the Homepage"
+msgstr ""
+
+#: inc/customizer/theme-options.php:66
+msgid "By default, excerpt is displayed on the blog homepage."
+msgstr ""
+
+#: inc/customizer/theme-options.php:75
+msgid "Hide \"Goto Top\" button from footer"
+msgstr ""
+
+#: inc/customizer/theme-options.php:79
+msgid "By default, it will be displayed when user scrolls down more than 700 px."
+msgstr ""
+
+#: inc/customizer/theme-options.php:88
+msgid "Stick header to top while scrolling"
+msgstr ""
+
+#: inc/customizer/theme-options.php:100
+msgid "You are not on blog home page"
+msgstr ""
+
+#: inc/customizer/theme-options.php:105
+msgid "Changes in the following options can be previewed live only on blog home page. Navigate to blog home page in live preview to see the effect of changes in these options."
+msgstr ""
+
+#: inc/customizer/theme-options.php:114
+msgid "Display cover section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:118
+msgid "Select this setting if you want to show cover section from the blog homepage."
+msgstr ""
+
+#: inc/customizer/theme-options.php:126
+msgid "Cover Section Image"
+msgstr ""
+
+#: inc/customizer/theme-options.php:134
+#: index.php:19
+msgid "Gutenberg Ready Minimal WP Blog Theme"
+msgstr ""
+
+#: inc/customizer/theme-options.php:138
+msgid "Title on Cover Section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:148
+#: index.php:21
+msgid "'Blog Guten' is a minimal WordPress blog theme designed to work seamlessly with Gutenberg Block Editor. It is minimal, fast, secure & easy-to-use blogging theme. Download it today for free from WordPress.org!"
+msgstr ""
+
+#: inc/customizer/theme-options.php:152
+msgid "Sub-title on Cover Section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:166
+msgid "Cover Button Text"
+msgstr ""
+
+#: inc/customizer/theme-options.php:176
+msgid "#"
+msgstr ""
+
+#: inc/customizer/theme-options.php:180
+msgid "Cover Button Link"
+msgstr ""
+
+#: inc/customizer/theme-options.php:194
+msgid "View Documentation"
+msgstr ""
+
+#: inc/customizer/theme-options.php:198
+msgid "<a href=\"https://wp-points.com/how-to-setup-blog-guten-theme/\" target=\"_blank\" class=\"button\">View Documentation</a>"
+msgstr ""
+
+#: inc/customizer/theme-options.php:207
+msgid "Take your website to the next level!"
+msgstr ""
+
+#: inc/customizer/theme-options.php:211
+msgid "<p>With the premium version, you get more features along with professional technical support.</p><p>You can also improve your website's speed and performance. Your website can be further optimized for better search engine ranking.</p><p>Few important features: <ul><li>Import demo content easily.</li><li>Display featured posts on blog homepage.</li><li>More color scheme options to choose from.</li><li>Select typography from multiple options.</li></ul></p> <a href=\"https://wp-points.com/themes/blog-guten-pro/\" target=\"_blank\" class=\"button button-primary\">Learn More</a> <a href=\"https://blog-guten-pro.wp-points.com/\" target=\"_blank\" class=\"button button-primary bd-ml-5\">View Pro Demo</a>"
+msgstr ""
+
+#: inc/template-functions.php:125
+msgid "<h2>Welcome!</h2>"
+msgstr ""
+
+#: inc/template-functions.php:126
+msgid "<p style=\"margin-bottom: 15px;\">Thank you for choosing 'Blog Guten' theme. You can always reach out to us on the support forum if you need any help. If you like our work, please support us by providing a review with 5-star ratings. Please don't forget to take a look at premium version of this theme."
+msgstr ""
+
+#: inc/template-functions.php:130
+msgid "Get Started with Blog Guten"
+msgstr ""
+
+#: inc/template-functions.php:132
+msgid "Don't display this message again!"
+msgstr ""
+
+#: inc/template-functions.php:138
+msgid "<h2>Take a look at premium features...</h2>"
+msgstr ""
+
+#: inc/template-functions.php:139
+msgid "<p style=\"margin-bottom: 15px;\">It looks like you are enjoying the free version of 'Blog Guten' theme. You can get more style options if you upgrade to the premium version with professional support. There are many more benefits with the pro version. Click the following button to learn more.</p>"
+msgstr ""
+
+#: inc/template-functions.php:141
+msgid "Learn More About 'Blog Guten Pro'"
+msgstr ""
+
+#: inc/template-functions.php:143
+msgid "View Pro Demo"
+msgstr ""
+
+#: inc/template-functions.php:145
+msgid "Don't display this again!"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:23
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:39
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:59
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:66
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:76
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:93
+#: template-parts/content-page.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:26
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:7
+msgid "Search&hellip;"
+msgstr ""
+
+#: single.php:27
+msgid "&larr; Previous Post"
+msgstr ""
+
+#: single.php:28
+msgid "Next Post &rarr;"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:24
+#: template-parts/content.php:51
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:40
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content.php:60
+msgid "Continue Reading"
+msgstr ""

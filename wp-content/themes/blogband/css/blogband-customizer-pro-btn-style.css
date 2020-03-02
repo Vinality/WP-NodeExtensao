@@ -1,0 +1,18 @@
+/*  PRO BUTTON CSS CUSTOMIZER */
+
+#accordion-section-blogband-pro-btn-section .accordion-section-title:before{
+    display: none;
+}
+
+#accordion-section-blogband-pro-btn-section {
+  text-align: center;
+  display: list-item !important;
+  height: 61px !important;
+}
+
+#accordion-section-blogband-pro-btn-section .accordion-section-title .button {
+  height: 39px;
+  line-height: 37px;
+  text-transform: uppercase;
+  padding: 0px 26px 1px;
+}

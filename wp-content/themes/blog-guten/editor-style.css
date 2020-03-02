@@ -1,0 +1,47 @@
+/*--------------------------------------------------------------
+# VARIABLES
+--------------------------------------------------------------*/
+@import url("https://fonts.googleapis.com/css?family=Barlow:400,400i,600&display=swap");
+body { background: #ffffff; font-family: "Barlow", sans-serif; font-weight: 400; line-height: 1.618; color: #50556c; word-wrap: break-word; letter-spacing: 0.01em; font-size: 18px; line-height: 32px; }
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: "Barlow", sans-serif; font-weight: 600; line-height: 1.25; color: #50556c; }
+
+a, button, input { -webkit-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; }
+
+a { color: #6f76d9; }
+
+a:hover, a:focus, a:active { color: #ff6492; text-decoration: none; }
+
+a:focus { outline: #c2c2c2 dotted 1px; }
+
+a:hover, a:active { outline: 0; }
+
+.editor-post-title__block .editor-post-title__input { font-family: "Barlow", sans-serif; font-weight: 600; line-height: 1.25; color: #50556c; }
+
+.wp-block-pullquote { padding: 15px 0; border-top: 3px solid #6f76d9; border-bottom: 3px solid #6f76d9; }
+
+.wp-block-pullquote blockquote { padding: 15px 10px; margin: 0; font-size: 18px; font-style: italic; }
+
+.block-editor-block-list__layout .block-editor-block-list__block[data-align="left"] .block-editor-block-list__block-edit, .block-editor-block-list__layout .block-editor-block-list__block[data-align="right"] > .block-editor-block-list__block-edit { max-width: 305px; }
+
+.wp-block-image figcaption { margin-top: 0; line-height: 1.168; }
+
+.wp-block { max-width: 810px; }
+
+.wp-block[data-align="wide"] { max-width: 1100px; }
+
+.wp-block[data-align="full"] { max-width: none; }
+
+.wp-block-cover.alignleft { margin-right: 1.5em; }
+
+.has-large-font-size { line-height: 1.25; }
+
+.wp-block-quote { border-left: 4px solid #6f76d9; }
+
+.wp-block-quote[style*="text-align:right"], .wp-block-quote[style*="text-align: right"] { border-right: 4px solid #6f76d9; border-left: 0; }
+
+.wp-block-pullquote.is-style-solid-color blockquote > .block-editor-rich-text p { font-size: 20px; }
+
+.wp-block-pullquote.is-style-solid-color { background: #f5f6f7; border-top-width: 0px; border-bottom-width: 0px; color: #50556c; }
+
+.wp-block-pullquote.is-style-solid-color blockquote { max-width: 80%; margin: auto; }

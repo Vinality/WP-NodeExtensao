@@ -1,0 +1,66 @@
+/*
+Theme Name: Blog Guten
+
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+	text-align: right;
+}
+.text-right {
+    text-align: left !important;
+}
+.text-left {
+    text-align: right !important;
+}
+.main-navigation ul {
+	padding-right: 0;
+}
+.main-navigation ul ul {
+    right: -999em !important;
+    left: auto !important;
+    text-align: right;
+    padding-right: 1rem;
+}
+.main-navigation ul li:hover > ul, .main-navigation ul li.focus > ul {
+    right: auto !important;
+}
+.main-navigation ul ul li:hover > ul, .main-navigation ul ul li.focus > ul {
+    left: auto !important;
+    right: 100% !important;
+}
+.main-navigation li {
+	text-align: right;
+}
+.main-navigation li:last-child a{
+	padding-left: 0;
+	padding-right: 15px;
+}
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous {
+	float: right;
+}
+.comment-navigation .nav-next, .posts-navigation .nav-next, .post-navigation .nav-next {
+	text-align: left;
+}
+.widget ul {
+    padding-right: 0;
+}
+#secondary.widget-area {
+	padding-right: 30px;
+	padding-left: 0;
+}
+body.left-sidebar #secondary.widget-area {
+	padding-left: 30px;
+	padding-right: 0;
+}
+.slicknav_nav {
+	text-align: right;
+}
+.post .entry-content blockquote {
+	border-right: 4px solid #6f76d9;
+	border-left-width: 0px;
+}
+.post .entry-content .wp-block-pullquote blockquote {
+	border-right-width: 0;
+}

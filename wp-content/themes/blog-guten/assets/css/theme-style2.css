@@ -1,0 +1,61 @@
+body { font-family: 'Poppins', sans-serif; font-size: 16px; line-height: 30px; }
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Poppins', sans-serif; }
+
+.site-branding { font-size: 14px; }
+
+.cover-section-wrap .cover-desc { font-size: 18px; }
+
+a { color: #DB6352; }
+
+a:hover, a:focus, a:active { color: #28293E; }
+
+.main-navigation li a:hover { color: #DB6352; }
+
+.main-navigation .current_page_item > a { color: #DB6352; }
+
+.post .entry-title a:hover, .page .entry-title a:hover { color: #DB6352; }
+
+.bg-show-error { color: #DB6352; }
+
+.post .entry-content blockquote { border-left: 4px solid #DB6352; }
+
+.post .entry-content .wp-block-pullquote { border-top: 3px solid #DB6352; border-bottom: 3px solid #DB6352; }
+
+.post .entry-content .wp-block-pullquote.is-style-solid-color.has-light-purple-background-color { background-color: #DB6352; }
+
+.post .entry-content .wp-block-pullquote.is-style-solid-color.has-light-pink-background-color { background-color: #28293E; }
+
+button, input[type="button"], input[type="reset"], input[type="submit"] { border-color: #DB6352; background-color: #DB6352; }
+
+button:hover, button:active, button:focus, input[type="button"]:hover, input[type="button"]:active, input[type="button"]:focus, input[type="reset"]:hover, input[type="reset"]:active, input[type="reset"]:focus, input[type="submit"]:hover, input[type="submit"]:active, input[type="submit"]:focus { background-color: #28293E; border-color: #28293E; }
+
+.btn-primary { border-color: #DB6352; background-color: #DB6352; }
+
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus { background-color: #28293E; border-color: #28293E; }
+
+.has-light-purple-color { color: #DB6352; }
+
+.has-light-purple-color cite { color: #DB6352; }
+
+.has-light-pink-color { color: #28293E; }
+
+.has-light-pink-color cite { color: #28293E; }
+
+.has-light-purple-background-color { background-color: #DB6352; }
+
+.has-light-pink-background-color { background-color: #28293E; }
+
+.wp-block-button.is-style-outline .has-light-purple-color { color: #DB6352; border-color: #DB6352; }
+
+.wp-block-button.is-style-outline .has-light-pink-color { color: #28293E; border-color: #28293E; }
+
+.wp-block-button.is-style-outline .has-light-purple-background-color { background-color: #DB6352; }
+
+.wp-block-button.is-style-outline .has-light-pink-background-color { background-color: #28293E; }
+
+input[type="submit"] { border-color: #DB6352; background-color: #DB6352; }
+
+input[type="submit"]:hover, input[type="submit"]:active, input[type="submit"]:focus { color: #DB6352; border-color: #DB6352; }
+
+.site-footer .goto-top { background: #DB6352; }
